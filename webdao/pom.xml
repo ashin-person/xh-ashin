@@ -11,6 +11,7 @@
 
     <artifactId>web-dao</artifactId>
     <version>${xh-ashin-webdao.version}</version>
+    <packaging>jar</packaging>
     <dependencies>
         <dependency>
             <artifactId>web-api</artifactId>
